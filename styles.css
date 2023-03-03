@@ -23,6 +23,7 @@
 .center-block {
     text-align: center; 
     display: inline-block;
+    vertical-align: middle;
 }
 
 .centered {
